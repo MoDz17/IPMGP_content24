@@ -15,12 +15,58 @@
        }, 
       
        {
-               "name": "Ultm. versión 07/08/2024",
+               "name": "Ultm. versión 23/08/2024",
               "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-              "info": "última versión actualizada el 07/08/2024",
+              "info": "última versión actualizada el 23/08/2024",
               "stations": []
        },
-   
+
+       {
+          "name": "GP Austria (Spielberg)",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJzMGecqeFpt4L72Jh8Q5G3DShXu2lPcNN7YpmRMHjoFpqv2Pyhlsme3SxdZgVe3B6KQWgy791YtVFPT2ECbLWUeZg8tLdVgPHoRQ5BeCd0YE3FddLJYLEMCRyt4xlSA5joyJ37hLqhqtTbDJSdpo45SqKlmn_hB_pxkoxtg_4Gb00JqPGsEJDZ9PrauYC/w582-h386/Austria.PNG",
+          "imageScale": "",
+          "info":"",
+          "stations":
+                 [
+                        {
+                               "name": "Sprint",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/bf4ungo22s2e",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinOnL1E8g28xhyphenhyphenay3uzuvsr2BhJUsJKlWoRpRm0wBxMPk32y3nfTaNH4UxO_MMuUQaMEUEEUc1pgcrwO132nYlLuMaIsBvXT6F4o0rM2JHVRIIj8icdjMDaM-2xMHAEfMSTN7G8uiR6r8j8F-RFxYhL3ZgbytwR3W-CrzbGbuAN4XxBrA-4U8C3pvDkaH/w580-h142/logo-Moto2.png",
+                               "url": "https://filemoon.sx/d/r3i5dni01mkf",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/r1iexrr6wx1o",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFS8QvktUQ4bMwUH2a1O5PgZTmZESXk5GjusMb0LGZrpN3ZGUnExsYeasco4OQ1IMyq-PEkTYkZEBrRTRgeP-alrWkvAmB_D7bwCnBdmSn1X3EPxWUwpapjkvXDVyGSaRQQ20aK64rrTvt0v78KtcOktSm-Kv8Iall99sKGPffuosvGQ0kGRP6V4KpwalS/w593-h150/logo-Moto3.png",
+                               "url": "https://filemoon.sx/d/m1bv3lr0ztzr",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        }
+                 ]
+          },
+
        {
           "name": "GP Reino Unido (Silverstone)",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3L-4RO5a_wAW4t33yQX5IfHr39GjnnzgTQfuXPp3hdmYIIvSBsE7bjZKcOKGfC_P8Ft2Kox77iHkTbJ5h6ogaWEr9cEuKtVbeiyQyeGAcGc7YMBx229QBN3vw7_JnH5vBIrc3DE4asT8JMLXfNTNkPg9SXcSO4dwtShkTHYWLJkY1IbUb1yiwwxnoZM_U/w617-h310/Reino%20Unido.PNG",
