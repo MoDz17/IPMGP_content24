@@ -15,11 +15,57 @@
        }, 
       
        {
-               "name": "Ultm. versión 09/09/2024",
+               "name": "Ultm. versión 25/09/2024",
               "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-              "info": "última versión actualizada el 09/09/2024",
+              "info": "última versión actualizada el 25/09/2024",
               "stations": []
        },
+
+       {
+          "name": "GP Italia (Emilia-Romaña)",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZUZNW1ipjdcX6OpB66u90iXgdzr4dav1n35nxSNOhyH_ZVg-oIUz8ZpIdss-BXSYzIAtbFZ5alGd2De4W9sYFn9gKqnapdeIq3c2RsCPqpu5pCqUL5Jq81g8H2V5yFxNm0Gy9SNw8eF3owRbP3E1Obm-UzcjHcgi45-6FEod44XZ9sjg2MaRdFjWhMgHl/w607-h607/Italia.png",
+          "imageScale": "",
+          "info":"",
+          "stations":
+                 [
+                        {
+                               "name": "Sprint",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/j3yblh9zb6ul",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinOnL1E8g28xhyphenhyphenay3uzuvsr2BhJUsJKlWoRpRm0wBxMPk32y3nfTaNH4UxO_MMuUQaMEUEEUc1pgcrwO132nYlLuMaIsBvXT6F4o0rM2JHVRIIj8icdjMDaM-2xMHAEfMSTN7G8uiR6r8j8F-RFxYhL3ZgbytwR3W-CrzbGbuAN4XxBrA-4U8C3pvDkaH/w580-h142/logo-Moto2.png",
+                               "url": "https://filemoon.sx/d/w7st5j2j14bm/13_3_Carrera_Moto2_Emilia_Romagna__Italia__2024_ES.mkv",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/35lg6qaicahe",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFS8QvktUQ4bMwUH2a1O5PgZTmZESXk5GjusMb0LGZrpN3ZGUnExsYeasco4OQ1IMyq-PEkTYkZEBrRTRgeP-alrWkvAmB_D7bwCnBdmSn1X3EPxWUwpapjkvXDVyGSaRQQ20aK64rrTvt0v78KtcOktSm-Kv8Iall99sKGPffuosvGQ0kGRP6V4KpwalS/w593-h150/logo-Moto3.png",
+                               "url": "https://filemoon.sx/d/19rum05t18f2/13_2_Carrera_Moto3_Emilia_Romagna__Italia__2024_ES.mkv",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        }
+                 ]
+          },
 
        {
           "name": "GP Italia (Misano)",
