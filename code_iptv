@@ -15,11 +15,57 @@
        }, 
       
        {
-               "name": "Ultm. versión 25/09/2024",
+               "name": "Ultm. versión 01/10/2024",
               "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-              "info": "última versión actualizada el 25/09/2024",
+              "info": "última versión actualizada el 01/10/2024",
               "stations": []
        },
+
+       {
+          "name": "GP Indonesia (Mandalika)",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR63-tjqWgY5F0rSvDKIvc3UFhcX1LTNEiEijMJeOdYKJ9rJ7LQHrqoQ58DptLpgugt6g7Now_Z-GM04diweEvbAEwcfbJQdeNDoVVshXE08jtkSeeINNQ-_VhvY0YwwXMeVFTIvjzVIpnQqoctjrwr84KSH5-VsO9a4td8xJnxZJfEk5Wutli-9Rk4nFN/w605-h363/M%C3%B3naco.png",
+          "imageScale": "",
+          "info":"",
+          "stations":
+                 [
+                        {
+                               "name": "Sprint",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/iat7lswgw0bf",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinOnL1E8g28xhyphenhyphenay3uzuvsr2BhJUsJKlWoRpRm0wBxMPk32y3nfTaNH4UxO_MMuUQaMEUEEUc1pgcrwO132nYlLuMaIsBvXT6F4o0rM2JHVRIIj8icdjMDaM-2xMHAEfMSTN7G8uiR6r8j8F-RFxYhL3ZgbytwR3W-CrzbGbuAN4XxBrA-4U8C3pvDkaH/w580-h142/logo-Moto2.png",
+                               "url": "https://filemoon.sx/d/gdxf5a63l351",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/qh2g0v3eseu7",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFS8QvktUQ4bMwUH2a1O5PgZTmZESXk5GjusMb0LGZrpN3ZGUnExsYeasco4OQ1IMyq-PEkTYkZEBrRTRgeP-alrWkvAmB_D7bwCnBdmSn1X3EPxWUwpapjkvXDVyGSaRQQ20aK64rrTvt0v78KtcOktSm-Kv8Iall99sKGPffuosvGQ0kGRP6V4KpwalS/w593-h150/logo-Moto3.png",
+                               "url": "https://filemoon.sx/d/or6su7dz979p",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        }
+                 ]
+          },
 
        {
           "name": "GP Italia (Emilia-Romaña)",
