@@ -15,11 +15,103 @@
        }, 
       
        {
-               "name": "Ultm. versión 10/10/2024",
+               "name": "Ultm. versión 30/10/2024",
               "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-              "info": "última versión actualizada el 10/10/2024",
+              "info": "última versión actualizada el 30/10/2024",
               "stations": []
        },
+
+       {
+          "name": "GP Tailandia (Chang)",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9E6rFc_WRHtzCvziJO55Wn5IzxYL3mhrXnDLZI8qZUCNU0pZPHVPliZahPUQ0Bq-0Kp99QOy0tmX2rQI-AVyl_Rd0kGRgc7GDHN82XEx9xJ2tDlIeCmA2R7hLd8v1BypITNGGTi4N3xD8-wlX1CruPjZJrxWYjQP6h5oFHE-bUAbHtj3FMmthhmygOpiW/w576-h382/Tailandia.PNG",
+          "imageScale": "",
+          "info":"",
+          "stations":
+                 [
+                        {
+                               "name": "Sprint",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/5u9trvn8leuj/18_1_Sprint_MotoGP_Chang__Tailandia__2024_ES.mp4",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinOnL1E8g28xhyphenhyphenay3uzuvsr2BhJUsJKlWoRpRm0wBxMPk32y3nfTaNH4UxO_MMuUQaMEUEEUc1pgcrwO132nYlLuMaIsBvXT6F4o0rM2JHVRIIj8icdjMDaM-2xMHAEfMSTN7G8uiR6r8j8F-RFxYhL3ZgbytwR3W-CrzbGbuAN4XxBrA-4U8C3pvDkaH/w580-h142/logo-Moto2.png",
+                               "url": "https://filemoon.sx/d/ribfgzk6z25e/18_3_Carrera_Moto2_Chang__Tailandia__2024_ES.mkv.mkv",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/u58f7dgi5k8t/18_4_Carrera_MotoGP_Chang__Tailandia__2024_ES.mkv",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFS8QvktUQ4bMwUH2a1O5PgZTmZESXk5GjusMb0LGZrpN3ZGUnExsYeasco4OQ1IMyq-PEkTYkZEBrRTRgeP-alrWkvAmB_D7bwCnBdmSn1X3EPxWUwpapjkvXDVyGSaRQQ20aK64rrTvt0v78KtcOktSm-Kv8Iall99sKGPffuosvGQ0kGRP6V4KpwalS/w593-h150/logo-Moto3.png",
+                               "url": "https://filemoon.sx/d/stooary64r66/18_2_Carrera_Moto3_Chang__Tailandia__2024_ES.mkv.mkv",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        }
+                 ]
+          },
+
+       {
+          "name": "GP Australia (Phillip Island)",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhQVThRlpM9knMQPE9NtuhbEm-ivE1_lo9pI1I-qStNUbyFRcYFPuLIWU-o7n7d9uGRBCyvfGtBTBtw6l6bLgh-MK-pEx16wjqKd4iWeEJcTDK_MIX9JId5xqAwRZn0Nhiryi_3kuNKhQG-ZolntFnidiY6cmUOuroNWOLEEmY5a7RwDIUIFgGqVTimfA/w513-h257/Australia.PNG",
+          "imageScale": "",
+          "info":"",
+          "stations":
+                 [
+                        {
+                               "name": "Sprint",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/4aawj4khmnor",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinOnL1E8g28xhyphenhyphenay3uzuvsr2BhJUsJKlWoRpRm0wBxMPk32y3nfTaNH4UxO_MMuUQaMEUEEUc1pgcrwO132nYlLuMaIsBvXT6F4o0rM2JHVRIIj8icdjMDaM-2xMHAEfMSTN7G8uiR6r8j8F-RFxYhL3ZgbytwR3W-CrzbGbuAN4XxBrA-4U8C3pvDkaH/w580-h142/logo-Moto2.png",
+                               "url": "https://filemoon.sx/d/aain86aqmef6",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/ukez34bt4znn",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFS8QvktUQ4bMwUH2a1O5PgZTmZESXk5GjusMb0LGZrpN3ZGUnExsYeasco4OQ1IMyq-PEkTYkZEBrRTRgeP-alrWkvAmB_D7bwCnBdmSn1X3EPxWUwpapjkvXDVyGSaRQQ20aK64rrTvt0v78KtcOktSm-Kv8Iall99sKGPffuosvGQ0kGRP6V4KpwalS/w593-h150/logo-Moto3.png",
+                               "url": "https://filemoon.sx/d/d8ylc80di4h9",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        }
+                 ]
+          },
 
        {
           "name": "GP Japón (Motegi)",
