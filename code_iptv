@@ -15,11 +15,103 @@
        }, 
       
        {
-               "name": "Ultm. versión 30/10/2024",
+               "name": "Ultm. versión 21/11/2024",
               "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-              "info": "última versión actualizada el 30/10/2024",
+              "info": "última versión actualizada el 21/11/2024",
               "stations": []
        },
+
+       {
+          "name": "GP España (Barcelona*)",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh38A8MVmF9HID2hAKeRHQHgxlLAPEESVgNAqkrxHAL8DInZMxSpTYng5kh39JrFXZ7Y0sIMV81DkHlAV1F032eCf6SAueXXq4u0JJcF1hBIvvP_Ew_mwfzaHTh0o0vyOGh-FOr85z4LWyvdtlCRlj2BcpUVF4t-X-lvwho-LPhYEqZT83boA4qgxKPeLTY/w597-h397/Espa%C3%B1a.PNG",
+          "imageScale": "",
+          "info":"",
+          "stations":
+                 [
+                        {
+                               "name": "Sprint",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/wif8aibl1q3c",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinOnL1E8g28xhyphenhyphenay3uzuvsr2BhJUsJKlWoRpRm0wBxMPk32y3nfTaNH4UxO_MMuUQaMEUEEUc1pgcrwO132nYlLuMaIsBvXT6F4o0rM2JHVRIIj8icdjMDaM-2xMHAEfMSTN7G8uiR6r8j8F-RFxYhL3ZgbytwR3W-CrzbGbuAN4XxBrA-4U8C3pvDkaH/w580-h142/logo-Moto2.png",
+                               "url": "https://filemoon.sx/d/lpb0ehuxqvxf/20_3_Carrera_Moto2_Barcelona_Catalunya_Barcelona_2024_ES.mp4",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/rx6kf8pyk6g7",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFS8QvktUQ4bMwUH2a1O5PgZTmZESXk5GjusMb0LGZrpN3ZGUnExsYeasco4OQ1IMyq-PEkTYkZEBrRTRgeP-alrWkvAmB_D7bwCnBdmSn1X3EPxWUwpapjkvXDVyGSaRQQ20aK64rrTvt0v78KtcOktSm-Kv8Iall99sKGPffuosvGQ0kGRP6V4KpwalS/w593-h150/logo-Moto3.png",
+                               "url": "https://filemoon.sx/d/a77bz8n08kxp/20_2_Carrera_Moto3_Barcelona_Catalunya_Barcelona_2024_ES.mp4",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        }
+                 ]
+          },
+
+       {
+          "name": "GP Malasia (Sepang)",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-g78eouka3fnMWi_xArmqrDT0foK30Oyan1rPuKmLANmTQeaIAdkQy4trnWhyphenhyphent6EH9XjHykITMbwVoFPoPZxMloI4v7jGsGB-19MEkFXkACmUC4NBTa2jX4t8Nz6sOv0oJXPjmVuoXMwxXRonHR-vSoMdnZvgEFh40S7bSDq3HSEFAETSvP3f1UNVuJ9D/w577-h265/Malasia.PNG",
+          "imageScale": "",
+          "info":"",
+          "stations":
+                 [
+                        {
+                               "name": "Sprint",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/wojdvpu29j9i",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiinOnL1E8g28xhyphenhyphenay3uzuvsr2BhJUsJKlWoRpRm0wBxMPk32y3nfTaNH4UxO_MMuUQaMEUEEUc1pgcrwO132nYlLuMaIsBvXT6F4o0rM2JHVRIIj8icdjMDaM-2xMHAEfMSTN7G8uiR6r8j8F-RFxYhL3ZgbytwR3W-CrzbGbuAN4XxBrA-4U8C3pvDkaH/w580-h142/logo-Moto2.png",
+                               "url": "https://filemoon.sx/d/avkf3op4gwb7/19_3_Carrera_Moto2_Sepang__Malasia__2024_ES.mp4",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                               "url": "https://filemoon.sx/d/w5jv2yibi8iq/19_4_Carrera_MotoGP_Sepang__Malasia__2024_ES.mp4",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        },
+                        {
+                               "name": "Carrera",
+                               "info":"DAZN",
+                               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFS8QvktUQ4bMwUH2a1O5PgZTmZESXk5GjusMb0LGZrpN3ZGUnExsYeasco4OQ1IMyq-PEkTYkZEBrRTRgeP-alrWkvAmB_D7bwCnBdmSn1X3EPxWUwpapjkvXDVyGSaRQQ20aK64rrTvt0v78KtcOktSm-Kv8Iall99sKGPffuosvGQ0kGRP6V4KpwalS/w593-h150/logo-Moto3.png",
+                               "url": "https://filemoon.sx/d/yx4w9tm8m53m/19_2_Carrera_Moto3_Sepang__Malasia__2024_ES.mp4",
+                               "embed":"",
+                               "isHost":"true",
+                               "online":"true"
+                        }
+                 ]
+          },
 
        {
           "name": "GP Tailandia (Chang)",
